@@ -42,6 +42,9 @@ class MainActivity : ComponentActivity() {
 }
 
 
+/**
+ * Main function.
+ */
 @Composable
 fun BizCard() {
   Profile()
